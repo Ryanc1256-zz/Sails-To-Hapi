@@ -1,0 +1,21 @@
+{
+  "name": "sails-to-hapi",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A sailsjs like Config Loader",
+  "keywords": [],
+  "dependencies": {
+    "q-io": "latest",
+    "winston": "latest",
+    "hapi": "latest",
+    "async": "latest",
+    "lodash": "latest"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanc1256/Sails-To-Hapi.git"
+  },
+  "author": "Ryanc1256",
+  "license": ""
+}
